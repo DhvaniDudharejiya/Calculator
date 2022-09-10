@@ -1,0 +1,48 @@
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0
+}
+
+form {
+    display: inline-block;
+    background-color: rgb(233, 151, 151);
+    height: 450px;
+    width: 300px;
+    margin-left: 60px;
+    margin-top: 60px;
+    border-radius: 20px
+}
+
+input {
+    margin-top: 20px;
+    padding: 20px;
+    width: 215px;
+    text-align: right;
+    font-weight: bold;
+    font-size: large;
+}
+
+form button {
+    margin-top: 20px;
+    margin-left: 8px;
+    margin-right: 9px;
+    padding: 12px;
+    font-size: 18px;
+    width: 18%;
+}
+
+#zero {
+    position: relative;
+    padding-left: 117px;
+
+}
+
+.btnlast {
+    margin-left: 6px;
+}
+
+.btnpoint {
+    margin-left: 4px;
+    font-size: 22;
+}
